@@ -1,9 +1,9 @@
 import React from 'react'
 
-const tourDatails = () => {
+const TourDatails = () => {
   return (
-    <div>tourDatails</div>
+    <div> TourDatails</div>
   )
 }
 
-export default tourDatails
+export default TourDatails

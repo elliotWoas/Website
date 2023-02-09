@@ -1,9 +1,9 @@
 import React from 'react'
 
-const tours = () => {
+const Tours = () => {
   return (
-    <div>tours</div>
+    <div>Tours</div>
   )
 }
 
-export default tours
+export default Tours

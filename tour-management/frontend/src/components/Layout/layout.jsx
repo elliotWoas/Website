@@ -1,9 +1,17 @@
 import React from 'react'
 
-const layout = () => {
+import Header from '../Header/Header'
+import Routers from '../../router/Routers'
+import Footer from '../Footer/Footer'
+
+const Layout = () => {
   return (
-    <div>layout</div>
+   <>
+   <Header />
+   <Routers />
+   <Footer />
+   </>
   )
 }
 
-export default layout
+export default Layout
